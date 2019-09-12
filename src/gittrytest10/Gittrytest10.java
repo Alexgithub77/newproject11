@@ -14,7 +14,11 @@ public class Gittrytest10 {
 		
 		driver.get("https://www.facebook.com/");
 		
+		driver.get("https://www.google.com/");
+		
 		driver.manage().window().maximize();
+		
+		
 		
 	}
 
